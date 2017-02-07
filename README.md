@@ -1,7 +1,8 @@
-# C-Star
+3# C-Star
 
 This is a interactive C programming quiz developed using FLEX.
 Rules:
+
 1. Select a Picture to pick the category of questions
 2.Choose difficulty type Hard/Easy
 3.Click the choice which you feel as correct 
